@@ -1,1 +1,20 @@
-# Contenuto simulato di LICENSE
+MunnezzAssistant - Licenza di Utilizzo Limitato
+
+Copyright (c) 2025 Ivan Aragione
+
+MunnezzAssistant è distribuito gratuitamente e può essere utilizzato liberamente per scopi personali e commerciali, rispettando le seguenti condizioni:
+
+- È consentito l'uso privato e aziendale.
+- È consentita l'installazione su Home Assistant per sé o per clienti finali.
+- È consentita la modifica locale del codice per esigenze personali.
+
+**Non è consentito:**
+- Rivendere, distribuire o pubblicare il codice sorgente senza autorizzazione scritta.
+- Rimuovere o alterare il riferimento all'autore originale Ivan Aragione.
+- Commercializzare versioni derivate del progetto senza previo consenso.
+
+---
+
+Questo progetto è rilasciato in linea con i principi open source, ma tutela i diritti morali dell'autore.
+
+Eventuali supporti, miglioramenti o donazioni sono benvenuti per sostenere il progetto.

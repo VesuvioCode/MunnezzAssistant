@@ -3,17 +3,13 @@
 
 ---
 
-<img src="https://img.shields.io/badge/version-1.0.0-blue" />
-<img src="https://img.shields.io/badge/compatible-Home_Assistant_2024.12.0+-green" />
-<img src="https://img.shields.io/badge/licenza-Open_Limited_Use-brightgreen" />
+![Versione](https://img.shields.io/badge/version-1.0.0-blue)
+![Compatibile](https://img.shields.io/badge/compatible-Home_Assistant_2024.12.0+-green)
+![Licenza](https://img.shields.io/badge/licenza-Open_Limited_Use-brightgreen)
 
-<a href="https://github.com/VesuvioCode/MunnezzAssistant/releases/latest">
-  <img src="https://img.shields.io/badge/Download-⬇️-blue?style=for-the-badge&logo=homeassistant" />
-</a>
-<img src="https://img.shields.io/badge/Gratuito-Sì-green?style=for-the-badge" />
-<a href="https://vesuviocode.gumroad.com/l/pelkif">
-  <img src="https://img.shields.io/badge/Supporta-Gumroad-orange?style=for-the-badge&logo=gumroad" />
-</a>
+[![Download](https://img.shields.io/badge/Download-⬇️-blue?style=for-the-badge&logo=homeassistant)](https://github.com/VesuvioCode/MunnezzAssistant/releases/latest)
+![Gratuito](https://img.shields.io/badge/Gratuito-Sì-green?style=for-the-badge)
+[![Supporta](https://img.shields.io/badge/Supporta-Gumroad-orange?style=for-the-badge&logo=gumroad)](https://vesuviocode.gumroad.com/l/pelkif)
 
 ---
 

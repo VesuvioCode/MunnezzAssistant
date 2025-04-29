@@ -2,16 +2,17 @@
 
 ![Versione](https://img.shields.io/badge/version-1.0.0-blue)
 ![Home Assistant](https://img.shields.io/badge/compatible-Home_Assistant_2024.12.0+-green)
-![Licenza](https://img.shields.io/badge/licenza-Commerciale_Estesa-brightgreen)
+![Licenza](https://img.shields.io/badge/licenza-Open_Limited_Use-brightgreen)
 
-## 💰 Acquista MunnezzAssistant
-
-[![Scarica su Gumroad](https://img.shields.io/badge/Scarica%20su-Gumroad-orange?style=for-the-badge&logo=gumroad)](https://vesuviocode.gumroad.com/l/pelkif)
-[![Download Sicuro](https://img.shields.io/badge/Download-Sicuro-success?style=for-the-badge&logo=lock)](https://vesuviocode.gumroad.com/l/pelkif)
+[![Scarica Gratis](https://img.shields.io/badge/Download-Gratuito-brightgreen?style=for-the-badge&logo=homeassistant)](https://vesuviocode.gumroad.com/l/pelkif)
+[![Supporta il progetto](https://img.shields.io/badge/Supporta-Con%20una%20donazione-orange?style=for-the-badge&logo=buymeacoffee)](https://vesuviocode.gumroad.com/l/pelkif)
 
 ---
 
-## 📋 Descrizione
+> **MunnezzAssistant è gratuito!**  
+> Se lo trovi utile, puoi supportare lo sviluppo con una donazione libera su Gumroad.
+
+---
 
 **MunnezzAssistant** è l'integrazione intelligente per Home Assistant che ti aiuta a gestire la raccolta differenziata in modo semplice, automatico e personalizzabile.
 
@@ -25,15 +26,17 @@ Compatibile con Home Assistant **versione 2024.12.0** e successive.
 
 ---
 
-## 🛡️ Licenza
+## Licenza
 
-MunnezzAssistant è distribuito con **Licenza Commerciale Estesa**.  
-Con l'acquisto è consentito:
+MunnezzAssistant è distribuito con **Licenza Open Limitata**.  
+Con l'acquisto o il download gratuito è consentito:
 - Utilizzo personale e commerciale illimitato
-- Installazione presso clienti finali da parte di aziende o installatori.
+- Installazione presso clienti finali da parte di aziende o installatori
 
 **È vietato:**
 - Rivendere il codice sorgente
 - Ridistribuire pubblicamente il progetto senza autorizzazione
 - Modificare il codice per rimuovere la paternità dell'autore Ivan Aragione
+
+---
 

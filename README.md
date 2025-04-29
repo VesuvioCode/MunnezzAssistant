@@ -3,7 +3,8 @@
 ![Versione](https://img.shields.io/badge/version-1.0.0-blue)
 ![Home Assistant](https://img.shields.io/badge/compatible-Home_Assistant_2024.12.0+-green)
 ![Licenza](https://img.shields.io/badge/licenza-Commerciale_Estesa-brightgreen)
-👉 [Scarica MunnezzAssistant da Gumroad (a partire da 1€)](https://vesuviocode.gumroad.com/l/pelkif)
+
+[![Acquista su Gumroad](https://img.shields.io/badge/Scarica%20su-Gumroad-orange?style=for-the-badge&logo=gumroad)](https://vesuviocode.gumroad.com/l/pelkif)
 
 ---
 

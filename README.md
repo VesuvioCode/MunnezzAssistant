@@ -1,11 +1,20 @@
 # MunnezzAssistant
 
-![Versione](https://img.shields.io/badge/version-1.0.0-blue)
-![Home Assistant](https://img.shields.io/badge/compatible-Home_Assistant_2024.12.0+-green)
-![Licenza](https://img.shields.io/badge/licenza-Open_Limited_Use-brightgreen)
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue" />
+  <img src="https://img.shields.io/badge/compatible-Home_Assistant_2024.12.0+-green" />
+  <img src="https://img.shields.io/badge/licenza-Open_Limited_Use-brightgreen" />
+</p>
 
-[![Scarica Gratis](https://img.shields.io/badge/Download-Gratuito-brightgreen?style=for-the-badge&logo=homeassistant)](https://vesuviocode.gumroad.com/l/pelkif)
-[![Supporta il progetto](https://img.shields.io/badge/Supporta-Con%20una%20donazione-orange?style=for-the-badge&logo=buymeacoffee)](https://vesuviocode.gumroad.com/l/pelkif)
+<p align="center">
+  <a href="https://github.com/VesuvioCode/MunnezzAssistant/releases/latest">
+    <img src="https://img.shields.io/badge/Download-⬇️-blue?style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Gratuito-Sì-green?style=for-the-badge" />
+  <a href="https://vesuviocode.gumroad.com/l/pelkif">
+    <img src="https://img.shields.io/badge/Supporta-con%20una%20donazione-orange?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 

@@ -46,3 +46,45 @@ Con l'acquisto o il download gratuito è consentito:
 
 ---
 
+## 🖥️ Dashboard Lovelace integrata
+
+MunnezzAssistant include una dashboard visiva già pronta all’uso, progettata per offrire un'esperienza chiara, ordinata e in stile premium.
+
+### 📁 Cartella `lovelace/`
+
+| File                            | Descrizione                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| `munnezzassistant_dashboard.yaml` | Layout completo con card interattive e notifiche integrate                |
+| `munnezzassistant_light_theme.yaml` | Tema chiaro in stile MunnezzAssistant, con colori armonizzati             |
+| `README_lovelace.md`            | Istruzioni dettagliate per importare la dashboard e attivare il tema      |
+
+### 🛠️ Come importare la dashboard
+
+1. Vai su **Impostazioni > Dashboard > 3 puntini in alto a destra > Importa da YAML**
+2. Scegli il file `munnezzassistant_dashboard.yaml`
+3. Salva e visualizza la dashboard
+
+### 🎨 Come attivare il tema
+
+1. Copia `munnezzassistant_light_theme.yaml` in `/config/themes/`
+2. In `configuration.yaml`, assicurati di avere:
+
+```yaml
+frontend:
+  themes: !include_dir_merge_named themes
+```
+
+3. Riavvia Home Assistant
+4. Vai su **Impostazioni > Aspetto > Tema > munnezzassistant_light**
+
+### ⚙️ Sensori richiesti
+
+Per il corretto funzionamento della dashboard, assicurati di avere integrato questi sensori:
+
+- `sensor.rifiuto_oggi` – tipo di rifiuto da conferire oggi
+- `sensor.rifiuto_domani` – tipo di rifiuto per domani (facoltativo)
+- `input_boolean.rifiuto_confermato` – conferma manuale dell’utente
+- `input_select.utente_rifiuto` – (opzionale) selezione utente responsabile
+- `automation.notifica_raccolta` – notifica vocale o mobile programmata
+
+💡 *La dashboard si adatta automaticamente al tipo di raccolta prevista e semplifica la gestione da parte di tutti i membri della famiglia.*

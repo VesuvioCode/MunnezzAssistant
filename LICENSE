@@ -1,20 +1,23 @@
-MunnezzAssistant - Licenza di Utilizzo Limitato
+Licenza Creative Commons Attribuzione - Non Commerciale - Non opere derivate 4.0 Internazionale (CC BY-NC-ND 4.0)
 
-Copyright (c) 2025 Ivan Aragione
+Tu sei libero di:
+- Condividere — copiare e ridistribuire il materiale in qualsiasi formato o mezzo
 
-MunnezzAssistant è distribuito gratuitamente e può essere utilizzato liberamente per scopi personali e commerciali, rispettando le seguenti condizioni:
+Alle seguenti condizioni:
+- Attribuzione — Devi dare il credito appropriato, fornire un link alla licenza e indicare se sono state effettuate modifiche.
+  Puoi farlo in qualsiasi modo ragionevole, ma non in modo tale da suggerire che il licenziante avalli te o il tuo utilizzo.
+- Non commerciale — Non puoi usare il materiale per scopi commerciali.
+- Non opere derivate — Se remixi, trasformi o ti basi sul materiale, non puoi distribuire il materiale modificato.
 
-- È consentito l'uso privato e aziendale.
-- È consentita l'installazione su Home Assistant per sé o per clienti finali.
-- È consentita la modifica locale del codice per esigenze personali.
+Nessuna restrizione aggiuntiva — Non puoi applicare termini legali o misure tecnologiche che restringano legalmente gli altri dal fare qualcosa che la licenza permette.
 
-**Non è consentito:**
-- Rivendere, distribuire o pubblicare il codice sorgente senza autorizzazione scritta.
-- Rimuovere o alterare il riferimento all'autore originale Ivan Aragione.
-- Commercializzare versioni derivate del progetto senza previo consenso.
+Per visualizzare una copia di questa licenza, visita: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
----
+--
 
-Questo progetto è rilasciato in linea con i principi open source, ma tutela i diritti morali dell'autore.
+Questa licenza si applica al progetto:
 
-Eventuali supporti, miglioramenti o donazioni sono benvenuti per sostenere il progetto.
+MunnezzAssistant — Dashboard Lovelace per Home Assistant
+© VesuvioCode, 2024–2025. Tutti i diritti riservati.
+
+Contatto Autore: vesuviocode@gmail.com
